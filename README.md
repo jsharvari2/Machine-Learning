@@ -1,5 +1,5 @@
-#Music Recommender based on user's mood
-# Library and software environments!
+Music Recommender based on user's mood
+# Library and software environments! 
 - Python 3.7
 - pandas
 - sklearn
